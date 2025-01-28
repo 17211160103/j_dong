@@ -4,7 +4,7 @@ const fs = require('fs')
 const rp = require('request-promise')
 const download = require('download')
 
-// 京东cookie
+// 京东cookie 1
 const cookie = process.env.JD_COOKIE
 // Server酱SCKEY
 const push_key = process.env.PUSH_KEY
